@@ -5,5 +5,10 @@ by Adam Monroe/Adam Kopcinski
 
 ----------
 
-"Starship space technology sci fi" image
-Licensed under CC0, no attribution required
+"Starship space technology sci fi" by Stevebidmead
+Licensed under CC0
+
+---------
+
+"Starfield Simulation" by Jahobr
+Licensed under CC0, via Wikimedia Commons
