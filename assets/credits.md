@@ -17,7 +17,7 @@ Licensed under CC0, via Wikimedia Commons
 
 ----------
 
-"Spaceship Ambience Cockpit 01 by Tim Verberne
+"Spaceship Ambience Cockpit 01" by Tim Verberne
 
 Licensed under CC0
 
@@ -35,6 +35,6 @@ Licensed under CC0
 
 ----------
 
-"Big Sci-Fi Explosion/Bomb (Close) by EFlexMusic
+"Big Sci-Fi Explosion/Bomb (Close)" by EFlexMusic
 
 2017 - Licensed under Creative Commons Attribution Noncommercial (3.0)
