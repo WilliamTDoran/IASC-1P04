@@ -32,3 +32,9 @@ Licensed under CC0
 "Warning" by Serithi
 
 2012 - Licensed under Creative Commons Attribution (3.0)
+
+----------
+
+"Big Sci-Fi Explosion/Bomb (Close) by EFlexMusic
+
+2017 - Licensed under Creative Commons Attribution Noncommercial (3.0)
