@@ -8,4 +8,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the prototype [here]((https://williamtdoran.github.io/IASC-1P04/builds/ASG_03_10312020_2.html))
+Play the prototype [here](https://williamtdoran.github.io/IASC-1P04/builds/ASG_03_10312020_2.html)
