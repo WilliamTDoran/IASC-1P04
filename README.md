@@ -4,7 +4,7 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 ## Play Now
 
-Play the game [here](../final_build/ASG_10_12082020_5_FINAL_BUILD)
+Play the game [here](../final_build/ASG_10_12082020_5_FINAL_BUILD.html)
 <!-- ## Playtest
 
 Playtest my game [here](playtest/playtest)
